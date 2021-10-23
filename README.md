@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilherme-daros
 - 👀 I’m interested in embedded systems and FPGAs
-- 🌱 I’m currently learning computer organization of MIPS microprocessors
+- 🌱 I’m currently learning pwm modulation for control systems applied to power eletronics
 - 📫 How to reach me gh5777@hotmail.com
 
 <!---
