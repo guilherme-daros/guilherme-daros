@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilherme-daros
 - 👀 I’m interested in embedded systems, baremetal and linux
-- 🌱 I’m currently learning Nuttx RTOS
+- 🌱 I’m currently learning device drivers
 - 📫 How to reach me gh5777@hotmail.com
 
 <!---
