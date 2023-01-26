@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilherme-daros
 - 👀 I’m interested in embedded systems, baremetal and linux
-- 🌱 I’m currently learning device drivers
+- 🌱 I’m currently learning device tree, embedded linux boot process
 - 📫 How to reach me gh5777@hotmail.com
 
 <!---
